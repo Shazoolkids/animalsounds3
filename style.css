@@ -1,0 +1,40 @@
+body
+{
+  font-family: 'Poor Story', cursive;
+  background-color:pink;
+  text-align: center;
+}
+.header_div 
+{
+  background: rgb(188, 219, 238);
+  color:lightsalmon;
+  font-size:20px;
+}
+.header_div p
+{
+  font-family:cursive;
+  color:darkorange;
+  letter-spacing:2px;
+  font-size: 23px;
+  font-weight:bolder;
+}
+.main_div button 
+{
+  font-family: 'Poor Story', cursive;
+  margin-top:30px;
+  width:130px;
+  font-weight:bolder;
+  letter-spacing: 3px;
+}
+.copy_right_footer
+{
+  position:fixed;
+  color:white;
+  bottom:0;
+  width:100%;
+  background-color:lightsalmon;
+  font-size:20px;
+  line-height:4;
+  text-align:center;
+  text-shadow: 5px 5px 5px gray;
+}
